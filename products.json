@@ -17,46 +17,8 @@
     }
   },
   "products": {
-    "299": [
-      {
-        "id": "r299-1",
-        "name": "روليكس",
-        "spec": "حركة كوارتز سويسرية",
-        "price": 299,
-        "oldPrice": 450,
-        "img": "images/watch-classic.jpg",
-        "badge": ""
-      },
-      {
-        "id": "new-299-1785532854972",
-        "name": "299",
-        "spec": "ff",
-        "price": 299,
-        "img": "images/product-new-299-1785532854972.webp",
-        "badge": ""
-      }
-    ],
-    "449": [
-      {
-        "id": "r449-1",
-        "name": "روليكس ميخانيكل",
-        "spec": "حركة أوتوماتيكية ذاتية",
-        "price": 449,
-        "oldPrice": 650,
-        "img": "images/watch-automatic.jpg",
-        "badge": "الأكثر مبيعاً"
-      }
-    ],
-    "899": [
-      {
-        "id": "r899-1",
-        "name": "روليكس ماستر كوالتي",
-        "spec": "محرك ياباني عيار 8215",
-        "price": 899,
-        "oldPrice": 1200,
-        "img": "images/watch-elite.jpg",
-        "badge": ""
-      }
-    ]
+    "299": [],
+    "449": [],
+    "899": []
   }
 }
